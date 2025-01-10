@@ -1,7 +1,7 @@
-name: ai-chatbot
+name: ai-chatbot-2
 nextjs:
     packageManager: npm
-    path: ./
+    path: .
     scripts:
         deploy:
             - npm install
